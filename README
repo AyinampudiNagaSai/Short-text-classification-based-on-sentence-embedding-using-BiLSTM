@@ -1,3 +1,8 @@
+StackOverflow 
+
+dataset consists 3,370,528 samples through July 31st, 2012 to Au- gust 14, 2012. 
+In our experiments, we randomly select 20, 000 question titles from 20 different tags.
+
 Training and test data as Google search snippets
 
 Traning data: 
